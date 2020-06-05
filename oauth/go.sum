@@ -1,4 +1,5 @@
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
+github.com/sampado/bookstore_oauth-go v0.0.0-20200605142611-2dba87848f4b h1:Xb6l2VdkADJrIDTQnBoc5pAjiJoobxWuIUQ1Io8jB0w=
 github.com/sampado/bookstore_utils-go v0.0.0-20200605175742-306770086be8 h1:wVgUxPKsU51OrAUWd/RxMC30Y7yYwN5v1jU5KvVRHI0=
 github.com/sampado/bookstore_utils-go v0.0.0-20200605175742-306770086be8/go.mod h1:JQGkfeWcUzO2BCk32npXRIGiz+00bSuXCIzQ72ZO4jg=
