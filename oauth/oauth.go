@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/mercadolibre/golang-restclient/rest"
-	"github.com/sampado/bookstore_oauth-go/errors"
+	"github.com/sampado/bookstore_oauth-go/oauth/errors"
 )
 
 var (
